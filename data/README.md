@@ -47,6 +47,17 @@ data/
   (Field editing, Packet composition, Feature corruption) are not included here for
   size reasons; they can be regenerated with the released augmentation code.
 
+## License
+
+The authors' contributions in this directory (augmentation transformations, file
+selection and organization, documentation) are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The underlying traffic data
+remains subject to the original CIC terms, which are passed through unchanged:
+CIC-IDS2017 is publicly available for researchers and requires citing the dataset paper;
+CSE-CIC-IDS2018 may be redistributed in any form provided any use includes a citation to
+the dataset and a link to its AWS page
+(<https://registry.opendata.aws/cse-cic-ids2018/>). See [LICENSE](LICENSE) for details.
+
 ## Source datasets and attribution
 
 The underlying packet captures are from the Canadian Institute for Cybersecurity (CIC),

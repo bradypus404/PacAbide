@@ -1,0 +1,36 @@
+License for the contents of the data/ directory
+================================================
+
+These files are DERIVED DATA: flow features extracted with CICFlowMeter V4.0
+from the CIC-IDS2017 and CSE-CIC-IDS2018 packet captures of the Canadian
+Institute for Cybersecurity (CIC), University of New Brunswick, including
+views produced by the PacAbide transport augmentation.
+
+1. Authors' contributions
+-------------------------
+To the extent of the authors' own rights (the augmentation transformations,
+the selection and organization of the files, and the accompanying
+documentation), this directory is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution: cite the PacAbide paper (see data/README.md).
+
+2. Underlying datasets
+----------------------
+The underlying traffic data remains subject to the terms of the original
+providers, which are passed through unchanged:
+
+- CIC-IDS2017 (https://www.unb.ca/cic/datasets/ids-2017.html): made publicly
+  available for researchers; any use requires citing
+  Sharafaldin, I., Habibi Lashkari, A., Ghorbani, A. A., "Toward Generating a
+  New Intrusion Detection Dataset and Intrusion Traffic Characterization,"
+  ICISSP 2018.
+
+- CSE-CIC-IDS2018 (https://www.unb.ca/cic/datasets/ids-2018.html): may be
+  redistributed, republished, and mirrored in any form, provided any use or
+  redistribution includes a citation to the CSE-CIC-IDS2018 dataset and a link
+  to the dataset page on AWS: https://registry.opendata.aws/cse-cic-ids2018/
+
+Where these upstream terms conflict with CC BY 4.0, the upstream terms
+prevail for the underlying data.
